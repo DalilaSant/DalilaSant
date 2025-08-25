@@ -88,12 +88,13 @@
 ---
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">💳 Github Profile Summary Card & Most Used Language:</h2> 
+<h2 align="center" style="margin: 5px 10px;">💳 Most Used Language & Github Profile Summary Card:</h2> 
  
  <div align=center>
-  
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=DalilaSant&show_icons=true&locale=en&layout=compact&theme=radical)]() 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DalilaSant&theme=github_dark)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=DalilaSant&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+ 
   
  </div>
 
