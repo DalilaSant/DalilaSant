@@ -15,10 +15,10 @@
 <h3 font-size="20" align="center">💻 Ingeniera en Sistemas siempre en busca de aprender y crecer.</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo más sobre redes, ciberseguridad, desarrollo web y cloud.
-- 👩‍💻 He trabajado en proyectos de HTML, CSS, PHP, bases de datos y edición de archivos digitales.
+- 🌱 Actualmente estoy aprendiendo más sobre frontend, desarrollo web y redes.
+- 👩‍💻 He trabajado en proyectos Frontend Developer | Vue.js, TypeScript, JS | Vite y Web Dev
 - 🚀 Mi meta es trabajar en una gran empresa tecnológica y seguir mejorando cada día.
-- ⚡ Dato curioso: me encanta aprender cosas nuevas constantemente (desde inglés hasta Excel).
+- ⚡ Dato curioso: me encanta aprender cosas nuevas constantemente.
   
 ---
 
