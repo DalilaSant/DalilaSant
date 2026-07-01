@@ -1,10 +1,12 @@
+
+
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h1 align="center">Hi, I'm Dalila Santiago <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer;Developer%20Web;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Designer+%26+Developer;Frontend+Engineer;Systems+Engineer;Turning+ideas+into+scalable+web+apps;&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -12,71 +14,60 @@
 </p>
 
 ---
-<h3 font-size="20" align="center">💻 Ingeniera en Sistemas siempre en busca de aprender y crecer.</h3>
+<h3 align="center">💻 Ingeniera en Sistemas especializada en Desarrollo Frontend y Diseño Web</h3>
 
-
-- 🌱 Actualmente estoy aprendiendo más sobre frontend, desarrollo web y redes.
-- 👩‍💻 He trabajado en proyectos Frontend Developer | Vue.js, TypeScript, JS | Vite y Web Dev
-- 🚀 Mi meta es trabajar en una gran empresa tecnológica y seguir mejorando cada día.
-- ⚡ Dato curioso: me encanta aprender cosas nuevas constantemente.
+- 🚀 **Enfocada en:** Crear interfaces modernas, rápidas, escalables y optimizadas para el usuario.
+- 🛠️ **Experiencia real:** Migración de arquitecturas web monolíticas a ecosistemas frontend modernos, desarrollo de portales digitales de alto rendimiento y automatización de plataformas de capacitación.
+- 👩‍💻 **Stack principal:** Vue.js, React, Astro, TypeScript, JavaScript y entornos de CMS como WordPress/WooCommerce.
+- ⚡ **Dato curioso:** Siempre buscando optimizar el rendimiento de carga de cada sitio que toco.
   
 ---
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Core Tech</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/> 
   </a>
-  <a href=# target="_black">
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> 
+  </a>
+  <a href="https://astro.build/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/> 
+  </a>
+  <a href="https://wordpress.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  </a>
 </p>
 
-<h3 align="center">Some of the technologies I have worked with</h3>
+<h3 align="center">Tools & Ecosystem</h3>
 <p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/>
   </a>
-   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
 </p>
 
-
-
-----
-
-
+---
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -93,7 +84,7 @@
  <div align=center>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=DalilaSant&show_icons=true&locale=en&layout=compact&theme=radical)]() 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DalilaSant&theme=github_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DalilaSant&theme=github_dark)]()
  
   
  </div>
@@ -106,22 +97,17 @@
 
 ---
 
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/crisanta-dalila-santiago-alberto-isc/">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/crisanta-dalila-santiago-alberto-isc/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/DalilaSant">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dalila.sant/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      </div>
-
+ </div>
 </p>
-
-
 
 
