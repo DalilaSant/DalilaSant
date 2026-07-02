@@ -17,7 +17,7 @@
 <h3 align="center">💻 Ingeniera en Sistemas especializada en Desarrollo Frontend y Diseño Web</h3>
 
 - 🚀 **Enfocada en:** Crear interfaces modernas, rápidas, escalables y optimizadas para el usuario.
-- 🛠️ **Experiencia real:**Liderando la programación y mantenimiento de sitios web corporativos ( WordPress, HTML5, CSS3), mantenimiento técnico de plataformas existentes desarrolladas en React y Vue.js, migración de arquitecturas tradicionales hacia ecosistemas frontend modernos basados en Vue.js, desarrollo de portales digitales de alto rendimiento y automatización de plataformas de capacitación.
+- 🛠️ **Experiencia real:** Liderando la programación y mantenimiento de sitios web corporativos ( WordPress, HTML5, CSS3), mantenimiento técnico de plataformas existentes desarrolladas en React y Vue.js, migración de arquitecturas tradicionales hacia ecosistemas frontend modernos basados en Vue.js, desarrollo de portales digitales de alto rendimiento y automatización de plataformas de capacitación.
 - 👩‍💻 **Stack principal:** Vue.js, React, Astro, TypeScript, JavaScript y entornos de CMS como WordPress/WooCommerce.
 - ⚡ **Dato curioso:** Siempre buscando optimizar el rendimiento de carga de cada sitio que toco.
   
